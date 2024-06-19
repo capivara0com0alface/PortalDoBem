@@ -2,7 +2,7 @@
     padding: 0px 20px;
     display: flex;
     text-align: center;
-    background-color: rgb(155, 63, 62);
+    background-color: hwb(1 24% 39%);
   }
   
   main {
@@ -19,13 +19,13 @@
   section header {
     padding: 10px;
     text-align: center;
-    background-color: orange;
+    background-color: hwb(1 24% 39%)
   }
   
   section div {
     padding: 10px;
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(255, 255, 255);
   }
   
   aside header {
