@@ -4,6 +4,11 @@
     text-align: center;
     background-color: hwb(1 24% 39%);
   }
+
+  .img{
+width: 100px;
+
+  }
   
   main {
     padding: 20px 0px;
