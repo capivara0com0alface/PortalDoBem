@@ -8,8 +8,13 @@
   .img{
     width: 146px;
     height: 49px;
+    
 }
-
+.centralizar {
+  text-align: center;
+  
+  border: 1px solid;
+}
 
   
   main {
