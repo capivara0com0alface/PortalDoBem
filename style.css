@@ -3,8 +3,13 @@
   background-color: #892929;
   border: 1px solid;
 }
-.img{
+.bro{
   text-align: left;
   background-color: #939393;
   border: 1px solid;
+}
+
+.img{
+  width: 156px;
+    height: 55px;
 }
