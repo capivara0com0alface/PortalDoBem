@@ -1,51 +1,5 @@
-.topo {
-    padding: 0px 20px;
-    display: flex;
-    text-align: center;
-    background-color: hwb(1 24% 39%);
-  }
-
-   
+.começo{
+  text-align: center;
   
-.img {
-  text-align: left;
-  width: 140px;
-    height: 56px;
+  border: 1px solid;
 }
-
-  
-  main {
-    padding: 20px 0px;
-    display: flex;
-    justify-content: space-around;
-    background-color: rgb(137, 138, 135);
-  }
-  
-  section, aside {
-    width: 45%;
-  }
-  
-  section header {
-    padding: 10px;
-    text-align: center;
-    background-color: hwb(1 24% 39%);
-  }
-  
-  section div {
-    padding: 10px;
-    text-align: center;
-    background-color: #c7c2c2;
-  }
-  
-  aside header {
-    padding: 10px;
-    text-align: center;
-    background-color: hwb(1 24% 39%);
-  }
-  
-  aside div {
-    padding: 10px;
-    text-align: center;
-    background-color: #c7c2c2;
-  }
-
