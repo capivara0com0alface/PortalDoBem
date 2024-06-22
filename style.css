@@ -33,6 +33,10 @@ body{
   
 }
 
+.magem{
+  width: 20%;
+}
+
 @media screen and (min-width: 1024px){
   .foto3{
       width: 50%;
