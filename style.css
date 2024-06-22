@@ -39,6 +39,25 @@ body{
   width: 40%;
 }
 
+.carta{
+  display: flex;
+}
+
+.cartão{
+  border-radius: 20px;
+  margin-left: 10px;
+  height: 200px;
+  background-color: #461111;
+  flex: 1
+;
+transition: .3s all ease;
+}
+
+.cartão:hover{
+  flex: 2;
+  background-color: #461111;
+}
+
 @media screen and (min-width: 1024px){
   .foto3{
       width: 60%;
