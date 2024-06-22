@@ -53,6 +53,10 @@ body{
 transition: .3s all ease;
 }
 
+.IMAGEM{
+  width: 20%;
+}
+
 .cartão:hover{
   flex: 2;
   background-color: #892929;
