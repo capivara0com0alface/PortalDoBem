@@ -13,3 +13,19 @@
   width: 156px;
     height: 55px;
 }
+
+.topo {
+  padding: 0px 20px;
+  display: flex;
+  text-align: center;
+  background-color: #D9D9D9;
+}
+
+.fundo1{
+  background-image: url(./Fundo\ 1.png);
+  background-size: 74%;
+  height: 677px;
+  background-repeat: no-repeat;
+  margin-left: 320px;
+  margin-right: -39px;
+}
