@@ -47,7 +47,7 @@ body{
   border-radius: 20px;
   margin-left: 10px;
   height: 200px;
-  background-color: #461111;
+  background-color: #892929;
   flex: 1
 ;
 transition: .3s all ease;
@@ -55,7 +55,7 @@ transition: .3s all ease;
 
 .cartão:hover{
   flex: 2;
-  background-color: #461111;
+  background-color: #892929;
 }
 
 @media screen and (min-width: 1024px){
