@@ -47,7 +47,8 @@ body{
   border-radius: 20px;
   margin-left: 10px;
   height: 200px;
-  background-image: image(https://gife.org.br/wp/media/2023/06/cenario_cultura_de_doacao_brasil-scaled.jpg);
+  background-image: url("https://gife.org.br/wp/media/2023/06/cenario_cultura_de_doacao_brasil-scaled.jpg");
+ background-color: #cccccc;
   flex: 1
 ;
 transition: .3s all ease;
