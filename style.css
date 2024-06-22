@@ -1,8 +1,38 @@
-.top {
+body{
+  background-color: aqua;
+}
+
+
+.foto3{
+  width: 100%;
+  border-radius: 50px;
+}
+
+.fundo1{
+  background-size: 74%;
+  height: 677px;
+  background-repeat: no-repeat;
+  margin-left: 320px;
+  margin-right: -39px;
+}
+
+.topo {
   padding: 0px 20px;
   display: flex;
   text-align: center;
   background-color: #D9D9D9;
   
 }
- 
+
+
+
+@media screen and (min-width: 1024px){
+  .foto3{
+      width: 50%;
+  }
+}
+
+
+@media screen and (min-width: 1700px){
+  
+}
