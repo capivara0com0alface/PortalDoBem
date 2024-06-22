@@ -1,5 +1,5 @@
 body{
-  background-color:blanchedalmond
+  background-color:#ffebcd
 }
 
 
@@ -19,12 +19,12 @@ body{
 .topo {
   padding: 1px 20px;
   text-align: center;
-  background-color: #e0e0e0;
+  background-color: #ffebcd;
   
 }
 
 .img{
-  width: 14%;
+  width: 8%;
     height: 30%;
 }
 
