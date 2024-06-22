@@ -48,8 +48,8 @@ body{
   margin-left: 10px;
   height: 200px;
   background-color: #892929;
-  flex: 1
-;
+  flex: 1;
+  text-align: center;
 transition: .3s all ease;
 }
 
