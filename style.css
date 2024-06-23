@@ -61,14 +61,22 @@ transition: .3s all ease;
   flex: 2;
   background-color: #892929;
 }
-.fim{
-  padding: 1px 20px;
-  float: right;
-}
+
 .sim{
   padding: 1px 20px;
   text-align: center;
 
+}
+
+.im{
+  padding: 15px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.texto{
+  display: inline-block;
+  padding-top: 15px;
 }
 
 @media screen and (min-width: 1024px){
