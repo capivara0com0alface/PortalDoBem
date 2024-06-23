@@ -62,9 +62,8 @@ transition: .3s all ease;
   background-color: #892929;
 }
 .fim{
-  border-radius: 20px;
-  margin-left: 10px;
-  flex: 1;
+  padding: 1px 20px;
+  text-align: left;
 }
 
 
