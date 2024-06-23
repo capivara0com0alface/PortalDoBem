@@ -61,6 +61,10 @@ transition: .3s all ease;
   flex: 2;
   background-color: #892929;
 }
+.fim{
+  padding: 1px 20px;
+ text-align: right;
+}
 
 @media screen and (min-width: 1024px){
   .foto3{
