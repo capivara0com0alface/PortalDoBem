@@ -68,15 +68,12 @@ transition: .3s all ease;
 
 }
 
-.im{
-  padding: 15px;
-  display: inline-block;
-  vertical-align: top;
+.aff{
+  display: flex;
 }
 
-.texto{
-  display: inline-block;
-  padding-top: 15px;
+img,p{
+  padding: 10px;
 }
 
 @media screen and (min-width: 1024px){
