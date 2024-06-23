@@ -67,6 +67,7 @@ transition: .3s all ease;
 .sim{
   padding: 1px 20px;
   text-align: center;
+  float: right;
 }
 
 @media screen and (min-width: 1024px){
