@@ -63,7 +63,10 @@ transition: .3s all ease;
 }
 .fim{
   padding: 1px 20px;
- text-align: right;
+}
+
+.sim{
+  text-align: left
 }
 
 @media screen and (min-width: 1024px){
