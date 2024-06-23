@@ -63,6 +63,7 @@ transition: .3s all ease;
 }
 .fim{
   padding: 1px 20px;
+  height: 600px;
 }
 .sim{
   padding: 1px 20px;
